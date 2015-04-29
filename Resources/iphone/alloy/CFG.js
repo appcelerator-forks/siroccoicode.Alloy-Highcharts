@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"club.siroccoicode.highcharts":"1.0"}};

@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.alco.highcharts":"1.0"}};

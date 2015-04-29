@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<ScrollableView>
+			<Widget src="club.siroccoicode.highcharts" id="pie_chart"/>
+			<Widget src="club.siroccoicode.highcharts" id="line_chart"/>
+		</ScrollableView>
+	</Window>
+</Alloy>
